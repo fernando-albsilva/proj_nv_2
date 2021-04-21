@@ -6,8 +6,10 @@ class Paciente:
     endereco:str
  
     def __init__(self):
-        self.nome="j"
-        self.email="e"
+        self.nome=""
+        self.email=""
+        self.telefone=""
+        self.endereco=""
 
     
     
